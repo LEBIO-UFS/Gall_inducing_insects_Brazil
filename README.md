@@ -1,2 +1,2 @@
 # Gall_inducing_insects_Brazil
-List of all inventories of gall-inducing insects reported in all biomes and regions of Brazil between 1988 and 2023. It contains information on each study, such as the geographical location, biome, number of gall morphotypes, host plants, and an emphasis on the species richness of Cecidomyiidae, in cases this family was sampled. 
+Table 2. List of cecidomyiid species in the Brazilian biomes, including their feeding habit, and associated host plant or prey recorded in the original description or inventories in Brazil. Type locality is indicated as “original description”; otherwise, the localities are from inventories. Abbreviation: NA: not applicable, NI: not informed.
